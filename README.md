@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chandrakantjena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrakantjena" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/chandrakanta-jena-a69454294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/chandrakanta-jena-a69454294" height="30" width="40" /></a>
 <a href="https://instagram.com/chandrakaaant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandrakaaant" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chandrakant_32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chandrakant_32" height="30" width="40" /></a>
 </p>
@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandrkant07&show_icons=true&locale=en" alt="chandrkant07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrkant07&" alt="chandrkant07" /></p>
+
